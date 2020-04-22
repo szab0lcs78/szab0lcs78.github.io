@@ -1,0 +1,21 @@
+main {
+    font-family: 'Sen', sans-serif;
+  }
+  
+  div {
+   display: flex;
+  }
+  
+  img {
+    width: 150px;
+  }
+  
+  section {
+    width: 200px;
+    text-aligment: center;
+  }
+  
+  a {
+    cursor: pointer;
+    display: block;
+  }
